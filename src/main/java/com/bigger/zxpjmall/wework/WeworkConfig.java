@@ -1,3 +1,5 @@
+package com.bigger.zxpjmall.wework;
+
 public class WeworkConfig {
     public String agentId = "1000002";
     public String secret = "CLSNLFADacD-UYUJG7dkx1ZTT3yqp9z58yH2HsMUEpQ";
